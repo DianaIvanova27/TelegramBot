@@ -6,7 +6,7 @@
 
 
 import telebot
-import random
+#import random
 from telebot import types
 
 bot = telebot.TeleBot('5718650989:AAFOb2MV8wc_fzptk8KVn2bHbJZAgXIoYCI')
